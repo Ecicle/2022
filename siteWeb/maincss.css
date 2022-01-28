@@ -1,0 +1,111 @@
+body {
+    font-family: "Geneva, Verdana, sans-serif";
+    text-align: left;
+    background-color: yellow;
+    background-image: url("/images/donotThatTone.jpg");
+    background-color: tomato;
+    background-size:200px;}
+    
+
+
+h1 {
+    font-family: fantasy;
+    font-size: 100px;
+    font-style: normal;
+    color: #D84F79;
+    text-align: center;
+    }
+h2, h3, h4, h5, h6 {
+    font-family: fantasy;
+    font-size: 20px;
+    font-style: normal;
+    color: #85A1AC;
+    text-align: center;
+    }
+h1{
+    font-size: 50px;
+}
+h2{
+    color: #6869AC;
+    }
+
+h3{
+    color: #006400 ;}
+p{
+    color: #85A1AC;
+    }
+
+#banner{
+    background-image:url("https://www.atlasseo.fr/images/agence-seo/blog/holi-festival-india_750x280.jpg");
+    background-color: cadetblue;
+    background-size:1500px;}
+
+#banner h1 {
+    font-size: 100;
+    font-style: bolder;
+    color: #D84F79;
+    text-align: center;
+    }
+
+#banner p {
+   font-family: fantasy;
+   font-size: 50px;
+    font-style: normal;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.vignettes{
+    display: flex;
+    justify-content : space-around;
+    height:200px;
+    width : 200px;
+    }
+
+
+.flex-item {
+  display:flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
